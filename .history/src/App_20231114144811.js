@@ -5,7 +5,7 @@ function App() {
   const comments = [
     {
       title: "First title",
-      likes: 2,
+      likes: a2,
       isClicked: false
     },
     {

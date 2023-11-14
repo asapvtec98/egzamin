@@ -1,0 +1,14 @@
+.comment {
+    border: 1px solid black;
+    background-color:aqua;
+        border: 5px solid;
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+    
+}
+
+
+.inline {
+    display: inline-block;
+}

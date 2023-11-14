@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.filler {
+  width: 33%;
+  height: 100%;
+}

@@ -1,0 +1,10 @@
+.comment {
+    border: 1px solid black;
+    background-color:aqua;
+    width: 50;
+}
+
+
+.inline {
+    display: inline-block;
+}

@@ -1,0 +1,11 @@
+body {
+
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+}
+
+.filler {
+  width: 33%;
+  height: 100%;
+}

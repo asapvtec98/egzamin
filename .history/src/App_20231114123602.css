@@ -1,0 +1,9 @@
+body {
+  background-color: aqua
+}
+
+.App {
+  background-color: blue;
+  width: auto;
+  padding: 10px;
+}

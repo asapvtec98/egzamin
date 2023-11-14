@@ -6,12 +6,12 @@ function App() {
     {
       title: "First title",
       likes: 2,
-      isClicked: false
+      isClicked: true
     },
     {
       title: "Second title",
       likes: 5,
-      isClicked: false
+      isClicked: true
     },
     {
       title: "Third title",

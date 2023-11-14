@@ -16,7 +16,7 @@ function App() {
     {
       title: "Third title",
       likes: 9,
-      isClicked: true
+      isClicked: false
     }
   ]
 

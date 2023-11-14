@@ -3,6 +3,7 @@ body {
 }
 
 .App {
+  background-color: blue;
   width: auto;
   padding: 10px;
 }

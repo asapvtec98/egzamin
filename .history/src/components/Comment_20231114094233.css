@@ -1,0 +1,12 @@
+.comment {
+    border: 1px solid black;
+    background-color:aqua;
+    width: 50%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.inline {
+    justify-content: space-between;
+    align-items: center;
+}

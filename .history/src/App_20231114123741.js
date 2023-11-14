@@ -6,7 +6,7 @@ function App() {
     {
       title: "First title",
       likes: 2,
-      isClicked: false
+      isClicked: true
     },
     {
       title: "Second title",
@@ -22,7 +22,7 @@ function App() {
 
   const displayComments = comments.map((comment) =>
       <div className="Comment">
-        <Komentarz title={comment.title} likes={comment.likes} isClicked={comment.isClicked}></Komentarz>
+        <Komentarz title={comment.title} likes={comment.likes}></Komentarz>
       </div>
   )
   

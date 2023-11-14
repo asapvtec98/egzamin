@@ -6,7 +6,7 @@ function App() {
     {
       title: "First title",
       likes: 2,
-      isClicked: false
+      isClicked: true
     },
     {
       title: "Second title",
